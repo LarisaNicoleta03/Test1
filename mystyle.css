@@ -1,0 +1,161 @@
+.menu{
+  margin-left: 100px;
+  margin-top: 20px;
+  color : black;
+  font-family : 'Times New Roman', Times, serif;
+  font-size: 20px;
+  display: inline-block;
+  font-weight : bold;
+  max-width: 100%;
+}
+
+.menu:hover{
+  color: red;
+}
+
+body{
+  background-color: rgb(183, 235, 254);
+}
+.title{
+  margin: 0 auto;
+  width: 800px;
+  font-family: 'Times New Roman' Times, serif;
+  font-size: 45px;
+  margin-top: 100px;
+  margin-bottom: 25px;
+  display: block;
+}
+
+.titlu_animatie{
+  margin-left: 100px;
+  width: 800px;
+  font-family: 'Times New Roman' Times, serif;
+  font-size: 25px;
+  margin-top: 25px;
+  display: block;
+  color: rgb(155, 36, 36);
+}
+
+.titlu_animatie{
+  margin-left: 100px;
+  width: 800px;
+  font-family: 'Times New Roman' Times, serif;
+  font-size: 25px;
+  margin-top: 25px;
+  display: block;
+  color: rgb(0, 0, 0);
+}
+
+.under_title{
+  color: grey;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  display: inline-block;
+}
+
+.first{
+margin-left: 200px;
+color: rgb(39, 39, 173);
+}
+
+.firsts{
+  margin-left: 500px;
+  }
+
+
+.image{
+width:1000px;
+margin-top: 20px;
+margin-bottom: 15px;
+display: block;
+margin: 0 auto;
+}
+
+
+.images{
+  width: 500px;
+  display: block;
+  margin: 10px auto;
+  border: 3px solid rgb(39, 169, 220);
+  } 
+
+
+.descript{
+width: 1000px;
+display: block;
+margin: 25px auto;
+color: black;
+font-size: 20px;
+}
+
+header{
+position: sticky;
+top:0;
+background-color: rgb(114, 112, 244);
+}
+
+span{
+  display:block;
+    float:left;
+    margin:10px 10px 0 0;
+    padding:5px 10px
+}
+
+.subscribe{
+padding:10px;
+background-color: rgb(114, 112, 244);
+max-width: 100%;
+}
+
+.subscribe input{
+width: 100%;
+padding:5px;
+box-sizing: border-box;
+margin-right: 5px;
+}
+
+.subscribe button{
+background-color: rgb(183, 235, 254);
+border: none;
+padding: 5px 10px;
+color:black;
+font-weight:bold;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(114, 112, 244);
+  color: white;
+  max-width: 100%;
+}
+
+.review{
+  margin-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  padding: 20px;
+  max-width: 100%;
+}
+
+.rating{
+  font-size: 30px;
+  align-items: center;
+  max-width: 100%;
+}
+
+.star{
+  color:orange;
+}
+
+input[type="text"], select, textarea{
+  width:100%;
+  padding:12px;
+  border:1px solid black;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
