@@ -83,7 +83,7 @@ margin: 0 auto;
 
 
 .descript{
-width: 1000px;
+max-width: 100%;
 display: block;
 margin: 25px auto;
 color: black;
@@ -110,7 +110,7 @@ max-width: 100%;
 }
 
 .subscribe input{
-width: 100%;
+width: 300px;
 padding:5px;
 box-sizing: border-box;
 margin-right: 5px;
